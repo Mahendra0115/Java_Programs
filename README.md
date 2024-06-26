@@ -1,2 +1,2 @@
 # Java_Programs
-Bsic java Programs in this repo
+Basic java Programs in this repo
