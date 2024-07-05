@@ -40,8 +40,9 @@
 
   */
 
+  
    // Using Do Loop
-   
+
    do{
     if(arr[i]%2 == 0){
        Even_ctr = Even_ctr+1;

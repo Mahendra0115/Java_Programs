@@ -1,7 +1,7 @@
 package Methos_programs;
 
  class M1_Square {
-    // take somthing and return somthing
+    // take somthing and return nothing
     static void Squre(int num){
          
         int res = num*num;

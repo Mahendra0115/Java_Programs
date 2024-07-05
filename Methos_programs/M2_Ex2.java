@@ -1,4 +1,4 @@
-
+  // take somthing return nothing 
 package Methos_programs;
 
 class M2_Ex2 {

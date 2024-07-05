@@ -12,6 +12,9 @@ class ArrayTest2 {
         int sum = 0;
 
 
+
+        // While Loop
+
         int i = 0; // initialization 
 
        while(i < 5){   // condition 

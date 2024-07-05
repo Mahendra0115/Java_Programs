@@ -1,15 +1,18 @@
 class M3_Even {
-    // Take somthing return somthing 
-   static String Even(int num){
-      if(num%2 == 0){
-        return ("Even: ");
-      }else{
-        return("odd");
-      }
+    // Take nothing return nothing 
+   static void Even(){
+    int num =55;
+    String res = "";
+
+    if(num%2 == 0){
+      res ="Even";
+    }else{
+        res = "odd";
+    }
+    System.out.println(res);
+
    }
     public static void main(String args[]){
-        int n = 5;
-       String result = Even(n);
-       System.out.println(result);
+       Even();
     }
 }

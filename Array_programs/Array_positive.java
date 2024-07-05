@@ -33,6 +33,10 @@ System.out.println("Negative is: "+Neg_ctr);
 
 */
 
+
+// using do loop 
+
+/* 
 do{
     if(arr[i]>= 0){
         
@@ -48,5 +52,22 @@ do{
   
 System.out.println("Total positive no is: "+Pos_Ctr);
 System.out.println("Total Negative no  is: "+Neg_ctr);
+
+*/
+
+// using for loop 
+
+for(i= 0; i<5; i++){
+    if(arr[i]>= 0){
+        
+        Pos_Ctr = Pos_Ctr+1;
+      }else{
+         
+        Neg_ctr = Neg_ctr+1;
+      }
+}
+System.out.println("Total positive no is: "+Pos_Ctr);
+System.out.println("Total Negative no  is: "+Neg_ctr);
+
    } 
 }

@@ -22,7 +22,7 @@
 
 
 
-
+     
       System.out.println("frist index of Array1 : "+ arr1[1]);
       System.out.println("second index of Array2 : "+ arr2[2]);
       System.out.println("third index of Array3 : "+ arr3[3]);
