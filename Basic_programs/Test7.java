@@ -1,3 +1,4 @@
+// package Basi_programs;
 import java.util.Scanner;
 
 class Test7{

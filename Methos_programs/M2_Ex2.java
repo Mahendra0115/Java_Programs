@@ -1,5 +1,4 @@
-  // take somthing return nothing 
-package Methos_programs;
+  // take somthing return nothing ;
 
 class M2_Ex2 {
   

@@ -1,3 +1,4 @@
+// package Basi_programs;
 // import java.util.*;   
 class Test4 {
   
@@ -14,7 +15,7 @@ int m3=60;
 int m4 = 85;
 int m5 = 76;
 
-float Avg = (m1+m2+m3+m4+m5)/5 ;
+int Avg = (m1+m2+m3+m4+m5)/5 ;
  int maks = Avg ;
 
 
@@ -31,7 +32,7 @@ else{
    System.out.print("Faild:  ");
 }
 
-System.out.printf("total maks is: %d",Avg);
+System.out.printf("total maks is: "+Avg);
 
 System.out.printf("total maks is: %d",maks);
 

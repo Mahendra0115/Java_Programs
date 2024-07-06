@@ -1,6 +1,6 @@
   // Take nothing return somthing
   
-  package Methos_programs;
+  
 
 class M4_Ex4 {
       static int Add(){

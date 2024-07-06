@@ -1,3 +1,4 @@
+// package Basi_programs;
  class Test8 {
     public static void main(String args[]){
         float Avg ;

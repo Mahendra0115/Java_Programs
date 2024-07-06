@@ -1,4 +1,4 @@
-class M3_Qube {
+class M4_Qube {
     // take somthing return nothing 
     static void Cube(){
         int n = 2;
