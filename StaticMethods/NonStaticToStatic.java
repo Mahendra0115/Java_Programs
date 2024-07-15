@@ -1,6 +1,6 @@
 // package StaticMethods;
 
-public class StaticToNonStatic {
+public class NonStaticToStatic {
 
 
       void M2(){
@@ -12,7 +12,7 @@ public class StaticToNonStatic {
   
           System.out.println("This is main method: ");
           // creating object 
-          StaticToNonStatic stns = new StaticToNonStatic();
+          NonStaticToStatic stns = new NonStaticToStatic();
            stns.M2();
 
           System.out.println("OUT");
