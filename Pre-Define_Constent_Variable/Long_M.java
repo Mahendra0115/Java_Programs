@@ -8,7 +8,11 @@
       System.out.println("Min Vlaue is: "+Long.MIN_VALUE);// it will give (MIN_VALUE)
          
       /*
-       
+       // OUTPUT 
+       Type is: int
+        Bit is: 32
+        Max Size is: 2147483647
+        Min Size is: -2147483648
        */
     }    
   }

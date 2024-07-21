@@ -1,4 +1,4 @@
- class M_Scriptfp {
+ class M_Strictfp {
     // Use Non-Static Method in Non-Access Modifire 
     strictfp  void m1(){
       System.out.println("this is Scriptfp Non Access Modifires: ");
@@ -9,7 +9,7 @@
         System.out.println("this is Scriptfp Non Access Modifires: ");
       }
     public static void main(String[] args) {
-        M_Scriptfp scriptfp = new M_Scriptfp();
+        M_Strictfp scriptfp = new M_Strictfp();
         scriptfp.m1();
     }
 }

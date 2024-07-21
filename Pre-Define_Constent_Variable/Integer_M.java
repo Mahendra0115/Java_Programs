@@ -7,5 +7,15 @@
     System.out.println("Max Size is: "+Integer.MAX_VALUE);// it will give (MAX_VALUE)
     System.out.println("Min Size is: "+Integer.MIN_VALUE);// it will give (MIN_VALUE)
 
+
+   /*
+    // OUTPUT
+     Type is: int
+     Bit is: 32
+     Max Size is: 2147483647
+     Min Size is: -2147483648
+     
+    */
+
   }    
 }

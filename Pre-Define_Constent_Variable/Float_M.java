@@ -7,5 +7,13 @@
       System.out.println("Max Size is: " +Float.MAX_VALUE);// it will give (MAX_VALUE)
       System.out.println("Min Size is: "+Float.MIN_VALUE);// it will give (MIN_VALUE)
   
+
+    /*
+       // OUTPUT 
+       Type is: float
+       bit size is: 32
+       Max Size is: 3.4028235E38
+       Min Size is: 1.4E-45 
+     */
     }    
   }
