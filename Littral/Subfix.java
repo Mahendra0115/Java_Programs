@@ -1,4 +1,4 @@
- class Integar {
+ class Subfix {
     // integar littral 
    
     public static void main(String[] args) {
